@@ -6,8 +6,7 @@ class Program
     {
         string txt = "А это пшеница, которая в темном " +
                      "чулане хранится, " +
-                     "в доме, который построил " +
-                     "Джек!";
+                     "в доме, который построил ";
         Console.WriteLine("Исходная строка:\n" + txt);
         Console.WriteLine(new string('-', 50));
         string[] Ws;
